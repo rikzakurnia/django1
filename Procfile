@@ -1,0 +1,1 @@
+web: gunicorn rikkuproject.wsgi --log-file -
